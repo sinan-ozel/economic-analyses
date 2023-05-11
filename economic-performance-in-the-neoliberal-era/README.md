@@ -50,6 +50,15 @@ average citizen.
 We could even speculate that this trend towards losing its appeal was one of the reasons why Russia decided to invade Ukraine. This line of thought
 is in line with the seminal paper by [Fearon (1999) - Rationalist Explanations for War](https://web.stanford.edu/group/fearon-research/cgi-bin/wordpress/wp-content/uploads/2013/10/Rationalist-Explanations-for-War.pdf)
 
+## Within Europe
+
+I also wanted to analyze within Europe, so here it is.
+
+![Analysis](within_europe.png)
+
+
+
+
 ## What's Missing From This Analysis?
 
 This is an analysis done for personal enjoyment in the evenings, so, a lot. One of the gaps is that average GDP does not reflect income inequality.

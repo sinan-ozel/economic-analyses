@@ -27,11 +27,41 @@ I thought that the visual was a great way to compare the before and now of econo
 My conclusion is nuanced: the era beginning in 1991 and ending in 2019 was an era of convergence. However, it was India, China and Turkiye that got the most from this
 convergence - among the countries. However, Japan and Russia fell backwards - relatively speaking - and America and Western Europe simply managed to keep their place.
 
-## Are We Really Seeing Convergence
+## Are We Really Seeing Convergence?
 
-World Bank data has a classification for high, middle and low income countries. You can see them in the chart below. I interpret this as a story of convergence.
+World Bank data has a classification for high, middle and low income countries. You can see them in the chart below. I interpret this as a story of convergence: A perfectly divergent world would have an "L" shape - a sharp box on the left, and a horizontal box at the bottom. A perfectly convergent
+world would have a one rectangle where no country or area is significantly higher than the others. As you can see, the world moved from
+a more divergent world to a more convergent world. I conclude that the neo-liberal era was partially successful in its mission.
 
 ![Analysis](convergence.png)
+
+## Explaining the Russian Aggression
+
+I can also extend the data to show the difference between Russia and the rest of Eastern Europe.
+
+![Analysis](exsoviet.png)
+
+I interpret this graph as follows: Right after the Soviet Era ended, if your average individual in Russia were to move to another country west of it,
+say, Poland, and occupy a similar spot on the income, they would perceive a decrease in their welfare, measured by their ability to purchase. However,
+as the neo-liberal era drew came close to its conclusion, if the average individual in Russia were to make the same move, they would not perceive a
+decrease in their welfare. Comparatively speaking, in 2019, Russia no longer had a better proposition than other European ex-Soviet countries for their
+average citizen.
+
+We could even speculate that this trend towards losing its appeal was one of the reasons why Russia decided to invade Ukraine. This line of thought
+is in line with the seminal paper by [Fearon (1999) - Rationalist Explanations for War](https://web.stanford.edu/group/fearon-research/cgi-bin/wordpress/wp-content/uploads/2013/10/Rationalist-Explanations-for-War.pdf)
+
+## What's Missing From This Analysis?
+
+This is an analysis done for personal enjoyment in the evenings, so, a lot. One of the gaps is that average GDP does not reflect income inequality.
+There is also no method in this analysis to understand the root causes of these changes.
+
+
+
+
+
+
+
+
 
 
 

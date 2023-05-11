@@ -27,6 +27,13 @@ I thought that the visual was a great way to compare the before and now of econo
 My conclusion is nuanced: the era beginning in 1991 and ending in 2019 was an era of convergence. However, it was India, China and Turkiye that got the most from this
 convergence - among the countries. However, Japan and Russia fell backwards - relatively speaking - and America and Western Europe simply managed to keep their place.
 
+## Are We Really Seeing Convergence
+
+World Bank data has a classification for high, middle and low income countries. You can see them in the chart below. I interpret this as a story of convergence.
+
+![Analysis](convergence.png)
+
+
 
 
 
